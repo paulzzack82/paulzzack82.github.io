@@ -7,3 +7,11 @@
 - 이용약관: terms.html
 
 홈페이지의 정적 HTML과 CSS를 보관합니다.
+
+## AI픽24
+
+별도 Blogger 앱의 공개 안내는 `aipick24/`에 있습니다.
+
+- 앱 소개: `aipick24/index.html`
+- 개인정보처리방침: `aipick24/privacy.html`
+- 이용약관: `aipick24/terms.html`
